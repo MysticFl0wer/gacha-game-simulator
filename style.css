@@ -1,0 +1,34 @@
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color:white;
+}
+
+body{
+    background-color:#1b0074;
+    background-image: url('Images/Untitled_design.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+noscript{
+    background-color:yellow;
+    color: black;
+}
+
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color:white;
+    background-color: rgb(38, 37, 41);
+}
+
+label{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+form{
+    align-content: center;
+    text-align: center;
+}
